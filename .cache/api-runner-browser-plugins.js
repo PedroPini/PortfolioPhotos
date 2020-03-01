@@ -9,7 +9,7 @@ module.exports = [{
       options: {"plugins":[]},
     },{
       plugin: require('../node_modules/gatsby-plugin-manifest/gatsby-browser.js'),
-      options: {"plugins":[],"name":"Emilia - @lekoarts/gatsby-theme-emilia","short_name":"Emilia","description":"Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI.","start_url":"/","background_color":"#fff","theme_color":"#3182ce","display":"standalone","icons":[{"src":"/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}]},
+      options: {"plugins":[],"name":"Pedro - @pamp178","short_name":"Pedro","description":"Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI.","start_url":"/","background_color":"#fff","theme_color":"#3182ce","display":"standalone","icons":[{"src":"/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}]},
     },{
       plugin: require('../node_modules/gatsby-plugin-offline/gatsby-browser.js'),
       options: {"plugins":[]},

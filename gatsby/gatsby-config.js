@@ -8,8 +8,10 @@ module.exports = {
     siteTitle: `Pedro Pini`,
     // Default title of the page
     siteTitleAlt: `Pedro - @pamp178`,
+    sitetitlealt: `Pedro - @pamp178`,
     // Can be used for e.g. JSONLD
     siteHeadline: `Pedro - @pamp178`,
+    siteheadline: `Pedro - @pamp178`,
     // Will be used to generate absolute URLs for og:image etc.
     siteUrl: `https://piniped.com`,
     // Used for SEO
@@ -17,7 +19,7 @@ module.exports = {
     // Will be set on the <html /> tag
     siteLanguage: `en`,
     // Used for og:image and must be placed inside the `static` folder
-    siteImage: `/banner.jpg`,
+    siteImage: `/androids-chrome-512X512.png`,
 
     // Twitter Handle
     author: `@pamp178`,

@@ -16,7 +16,6 @@ module.exports = {
     siteDescription: `My Personal portfolio for photos, where I am take, landscape, street, protrait and so on.`,
     // Will be set on the <html /> tag
     siteLanguage: `en`,
-    siteAboutMe: `TESTETET`,
     // Used for og:image and must be placed inside the `static` folder
     siteImage: `/banner.jpg`,
 

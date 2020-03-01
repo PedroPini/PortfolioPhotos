@@ -9,7 +9,7 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('D:/www/Photo/PortfolioPhotos/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
-      options: {"plugins":[]},
+      options: {"plugins":[],"trackingId":"UA-82407059-3"},
     },{
       plugin: require('D:/www/Photo/PortfolioPhotos/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[]},

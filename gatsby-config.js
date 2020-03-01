@@ -18,7 +18,7 @@ module.exports = {
     siteLanguage: `en`,
     siteAboutMe: `TESTETET`,
     // Used for og:image and must be placed inside the `static` folder
-    siteImage: `/banner.jpg`,
+    siteImage: `/banner.png`,
 
     // Twitter Handle
     author: `@pamp178`,
